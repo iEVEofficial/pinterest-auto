@@ -13,3 +13,6 @@
 Buat dua secret baru:
   PINTEREST_ACCESS_TOKEN: Masukkan Access Token yang Anda dapatkan dari Pinterest.
   PINTEREST_BOARD_ID: Masukkan ID board Pinterest Anda.
+
+## Crowjob
+.github/workflows/pinterest-autopost.yml
