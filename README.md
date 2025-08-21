@@ -1,8 +1,8 @@
 # pinterest-auto
 
 ## Anda memerlukan Access Token dan Board ID dari Pinterest.
-1. Buat Aplikasi Pinterest: Kunjungi Pinterest for Developers dan buat aplikasi baru.
-2. Hasilkan Access Token: Di dalam pengaturan aplikasi Anda, pergi ke bagian otentikasi dan hasilkan Access Token (OAuth 2.0). Pastikan Anda memberikan izin (scope) pins:read dan pins:write.
+1. Buat Aplikasi Pinterest: Kunjungi https://developers.pinterest.com/ dan buat aplikasi baru.
+2. Hasilkan Access Token: Di dalam pengaturan aplikasi Anda, pergi ke bagian otentikasi dan hasilkan Access Token (OAuth 2.0). Pastikan Anda memberikan izin (scope) read dan write.
 3. Dapatkan Board ID: Buka board Pinterest yang ingin Anda gunakan untuk auto-post. URL-nya akan terlihat seperti https://www.pinterest.com/username/board-name/. Bagian terakhir (board-name) biasanya adalah ID Anda. Jika tidak berhasil, Anda bisa menggunakan API untuk mendapatkan daftar board dan ID-nya.
 
 ## Tambahkan Kredensial ke GitHub Secrets
